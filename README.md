@@ -1,6 +1,8 @@
 # Micro
 A Micro FrontEnd Framework built around extensibility and multi tenancy.
 
+This Repo was moved [here](https://github.com/vtex/micro)
+
 ## Core Principles
 Micro is built with the following philosophy
 
